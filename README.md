@@ -159,11 +159,6 @@ TwitterXAPI is a third-party service that provides easy access to Twitter data w
 - Telegram channel: [@Twitterxapi_Official](https://t.me/Twitterxapi_Official)
 - Comprehensive documentation and code examples
 
-#### Other Alternatives
-- **RapidAPI Twitter** - Various Twitter API providers
-- **Apify Twitter Scraper** - Web scraping approach
-- **ScrapingBee** - Managed scraping service
-
 ### Security Best Practices
 
 1. **Never commit credentials** to version control
