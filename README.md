@@ -24,7 +24,7 @@ A powerful and comprehensive Twitter scraper and automation toolkit designed for
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/twitter-scraper.git
+git clone https://github.com/yeahjjyy/twitter-scraper.git
 cd twitter-scraper
 ```
 
@@ -202,22 +202,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🐛 Issues and Support
-
-- **Bug Reports** - Please use the [GitHub Issues](https://github.com/yourusername/twitter-scraper/issues) page
-- **Feature Requests** - Submit feature requests through GitHub Issues
-- **Questions** - For general questions, please check existing issues first
-
-## 🔗 Related Projects
-
-- [Twitter API v2](https://developer.twitter.com/en/docs/twitter-api)
-- [Tweepy](https://github.com/tweepy/tweepy) - Twitter API wrapper for Python
-- [Selenium Twitter Scraper](https://github.com/bisguzar/twitter-scraper) - Alternative scraping approach
-
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star! ⭐
 
 ---
 
